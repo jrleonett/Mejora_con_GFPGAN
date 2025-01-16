@@ -87,7 +87,7 @@ Verás:
 Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ```bash
 @article{joséRLeonett,
-  title={Análisis Error de ELA y Matadatos en imágenes digitales},
+  title={Mejora de imágenes con GFPGAN para análisis forense},
   author={José R. Leonett},
   year={2024}
 }
