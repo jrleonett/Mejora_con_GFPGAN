@@ -1,4 +1,7 @@
 # **Mejora de imágenes con GFPGAN para análisis forense**
+![Licencia](https://img.shields.io/badge/Licencia-GNU%20GPL%20v3-blue)
+![GitHub](https://img.shields.io/badge/Python-3.8%2B-green)
+![GitHub](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
 Este proyecto utiliza el modelo **GFPGAN** (Generative Facial Prior Generative Adversarial Network) para mejorar la calidad de imágenes, especialmente rostros, y escalarlas al doble de su tamaño original. Está diseñado para ser utilizado en el ámbito del **cómputo forense**, donde la claridad y calidad de las imágenes son cruciales para el análisis e identificación.
 
@@ -95,5 +98,5 @@ Usa la siguiente entrada BibTeX si utilizas este trabajo en tu investigación:
 ---
 
 **Licencia.**
-- Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+- Este proyecto está bajo la licencia GNU General Public License v3.0. Consulta el archivo LICENSE para más detalles.
 
