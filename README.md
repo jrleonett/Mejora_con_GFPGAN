@@ -7,7 +7,7 @@ Este proyecto utiliza el modelo **GFPGAN** (Generative Facial Prior Generative A
 
 ![image](https://miro.medium.com/v2/resize:fit:1400/1*EvemeaXd0_SEHPmxGeDLsw.png)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jrleonett/SwinIR/blob/main/SwinIR.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/jrleonett/Mejora_con_GFPGAN/blob/main/GFPGAN_GT.ipynb)
 
 ---
 ## **Capturas de Pantalla**
